@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="df!.,9YxWoUJX0IzKLn;" x="413" y="9" h="200" w="200">LED Light vs LED strip
+LED Light cannot change color by code
+LED Strip RGB</comment><block type="pxt-on-start" id="ljOsuV~qpn;sS-PpH=hy" x="0" y="0"></block><block type="device_forever" id="^!Rs2@|4!0%|qx/TCrpj" x="205" y="0"></block></xml>
